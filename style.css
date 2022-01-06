@@ -90,3 +90,19 @@ h1{
     background-size: 230px;
     background-position:right;   
 }
+#writing{
+    margin-left: 50px;
+    margin-right: 600px;
+    margin-bottom: 1000px;
+    color:navy;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    padding-right: 200px;
+   
+}
+#fifth-section{
+    background-image:url(images/person/m.jpg);
+    background-repeat: no-repeat;
+   
+   
+}
