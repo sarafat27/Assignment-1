@@ -21,6 +21,7 @@ h1{
 }
 .flexible{
     display:flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -31,4 +32,32 @@ h1{
 }
 .first-section{
     margin: 120px;
+}
+#scnd-headline{
+    text-align: center;
+}
+.scnd-items{
+    width:25%;
+    padding:
+}
+.scnd-items img{
+    width: 40%;
+}
+#scnd-item-first{
+    background-color: gray;
+    border-radius: 10px;
+    padding:50px 20px;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+#scnd-item-scnd{
+    background-color: thistle;
+    border-radius: 10px; 
+    padding:50px 20px;  
+}
+#scnd-item-third{
+    background-color: burlywood;
+    border-radius: 10px; 
+    padding:50px 20px;  
+    margin-left: 10px;   
 }
