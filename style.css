@@ -38,7 +38,7 @@ h1{
 }
 .scnd-items{
     width:25%;
-    padding:
+
 }
 .scnd-items img{
     width: 40%;
@@ -60,4 +60,33 @@ h1{
     border-radius: 10px; 
     padding:50px 20px;  
     margin-left: 10px;   
+}
+.third-headline{
+    margin-right: 130px;
+}
+.third-headline h1{
+    font-size: 30px;
+}
+#coding-img{
+    width:60%;
+    margin-left: 150px;
+}
+.second-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 230px;
+    
+    
+}
+.fourth-headline{
+    margin-left: 140px;
+}
+.fourth-headline h1{
+    font-size: 30px;
+}
+.fourth-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 230px;
+    background-position:right;   
 }
